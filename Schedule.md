@@ -1,0 +1,11 @@
+- [x] Extend PAGNode to CtxPAGNode
+- [x] Extend PAGEdge to CtxPAGEdge
+- [x] Add OriginPAGNode on top of CtxPAGNode
+- [x] Add OriginPAGEdge on top of CtxPAGEdge
+- [x] Extend ConsNode to CtxConsNode
+- [x] Extend ConsEdge to CtxConsNode
+- [ ] Add OriginConsNode on top of CtxConsNode
+- [ ] Add OriginConsEdge on top of CtxConsEdge
+- [x] Convert PAG -> origin-sensitive PAG (in progress)
+- [ ] Convert ConsG -> origin-sensitve ConsG
+- [ ] Finish Origin-sensitive PTA

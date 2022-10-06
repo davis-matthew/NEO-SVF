@@ -1,0 +1,8 @@
+///////////////////////////////////////////////////////////////////////////////////
+//-PotentiallySharedOutput = Outputs data that is not determined to be local     //
+//-NoFileOutput = Prevents output from containing full files                     //
+//-NoMethodOutput = Prevents output from containing full methods                 //
+//-OutputVariables = Adds individual variable output                             //
+//-Debug = Enables debugging console output                                      //
+//-Help = Returns this information                                               //
+///////////////////////////////////////////////////////////////////////////////////
